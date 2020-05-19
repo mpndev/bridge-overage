@@ -2,11 +2,7 @@
      "name": "FLOAT Overage Dashboard Gadget",
      "description": "JIRA Server Dashboard",
      "key": "com.example.myapp",
-     "baseUrl": "https://example.com",
-     "vendor": {
-         "name": "FFW",
-         "url": "http://example.com"
-     },
+     "baseUrl": "https://github.com/mpndev/bridge-overage",
      "authentication": {
          "type": "none"
      }
