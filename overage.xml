@@ -5,7 +5,7 @@ title="FLOAT Overage Dashboard Gadget"
 author="mpndev martin.nikolov@ffwagency.com"
 thumbnail="https://route_to_.png"
 screenshot="https://route_to.png"
-description="JIRA Server Dashboard Description">
+description="JIRA Server Dashboard">
  
 <Require feature="minimessage" />
 <Require feature="dynamic-height" />
@@ -18,7 +18,7 @@ description="JIRA Server Dashboard Description">
 <Require feature="views" />
 <Optional feature="atlassian.util" />
 <Optional feature="gadget-directory">
-<Param name="categories">Other</Param>
+<Param name="categories">FLOAT</Param>
 </Optional>
 </ModulePrefs>
  

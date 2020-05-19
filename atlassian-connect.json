@@ -1,0 +1,26 @@
+{
+     "name": "FLOAT Overage Dashboard Gadget",
+     "description": "JIRA Server Dashboard",
+     "key": "com.example.myapp",
+     "baseUrl": "https://<placeholder-url>",
+     "vendor": {
+         "name": "FFW",
+         "url": "http://example.com"
+     },
+     "authentication": {
+         "type": "none"
+     },
+     "apiVersion": 1,
+     "modules": {
+         "generalPages": [
+             {
+                 "url": "/helloworld.html",
+                 "key": "hello-world",
+                 "location": "system.top.navigation.bar",
+                 "name": {
+                     "value": "Greeting"
+                 }
+             }
+         ]
+     }
+}
