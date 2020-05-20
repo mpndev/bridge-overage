@@ -2,7 +2,7 @@
   "name": "Float Overage",
   "description": "Float Overage",
   "key": "com.float-overage.app",
-  "baseUrl": "https://github.com/mpndev/bridge-overage/blob/master/atlassian-connect.json",
+  "baseUrl": "https://mpndev.github.io/bridge-overage/",
   "vendor": {
     "name": "FFW",
     "url": "https://ffwagency.com/"
