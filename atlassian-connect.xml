@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<Module>
+  <ModulePrefs title="JIRA Issues" author_email="adent@example.com" directory_title="JIRA Issues"
+      screenshot="http://labs.atlassian.com/svn/GADGETS/trunk/jira-issues/basic/jira-issues-screenshot.png" 
+      thumbnail="http://labs.atlassian.com/svn/GADGETS/trunk/jira-issues/basic/jira-issues-thumbnail.png">
+    <Require feature="minimessage" />
+    <Optional feature="dynamic-height" />
+  </ModulePrefs>
+  <UserPref name="show_date" display_name="Show Dates?" datatype="bool" default_value="true"/>
+
+  <UserPref name="show_summ" display_name="Show Summaries?" datatype="bool" default_value="true"/>
+  <UserPref name="num_entries" display_name="Number of Entries:" default_value="5"/>
+  <Content type="html">
+     <![CDATA[ 
+       Hello, world!
+     ]]>
+   </Content> 
+</Module>
