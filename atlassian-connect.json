@@ -2,7 +2,7 @@
   "name": "Float Overage",
   "description": "Float Overage",
   "key": "com.float-overage.app",
-  "baseUrl": "https://mpndev.github.io/bridge-overage/",
+  "baseUrl": "https://dfa2a30b.ngrok.io/",
   "vendor": {
     "name": "FFW",
     "url": "https://ffwagency.com/"

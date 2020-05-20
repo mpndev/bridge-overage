@@ -1,7 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="947c1043-7011-4c9f-a521-d477d0f42493" name="Default Changelist" comment="" />
+    <list default="true" id="947c1043-7011-4c9f-a521-d477d0f42493" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/atlassian-connect.json" beforeDir="false" afterPath="$PROJECT_DIR$/atlassian-connect.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/float-overage-gadget.html" beforeDir="false" afterPath="$PROJECT_DIR$/float-overage-gadget.html" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -51,7 +55,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1589961816016</updated>
-      <workItem from="1589961817931" duration="331000" />
+      <workItem from="1589961817931" duration="9019000" />
     </task>
     <servers />
   </component>
